@@ -1,4 +1,4 @@
-👋 Hi there, I'm @huang47, and I'm a developer and writer at https://www.depub.net. You can find me on GitHub at https://github.com/huang47.
+👋 Hi there
 
 👀 I'm passionate about technology and software development, and I enjoy working on a wide range of projects. I have experience in frontend development, and I'm always looking to learn more and improve my skills. I believe that staying up-to-date with the latest technologies and trends is essential for any developer, and I'm committed to constantly learning and growing in my field.
 
